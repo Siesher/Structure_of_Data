@@ -1,6 +1,6 @@
 #include <iostream>
 #include <bits/c++config.h>
-
+#include <time.h>
 template<typename T>
 
 class Dynamic_queue{
